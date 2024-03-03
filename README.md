@@ -1,4 +1,4 @@
-<h1>Some of Photos:</h1>
+Some of Photos:
 ![image](https://github.com/mohammad-Al-Mouhtaseb/littlelemon-django/assets/83731873/0cf7c9e7-a8f6-43ca-b601-99071ba63ef3)
 ![image](https://github.com/mohammad-Al-Mouhtaseb/littlelemon-django/assets/83731873/66569631-d624-4bd8-b149-1694f055fe96)
 ![image](https://github.com/mohammad-Al-Mouhtaseb/littlelemon-django/assets/83731873/21761007-346a-4809-9f7c-e9941de1bfdb)
